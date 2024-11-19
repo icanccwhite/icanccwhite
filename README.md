@@ -31,7 +31,10 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icanccwhite&repo=Epigenetics)](https://github.com/icanccwhite/Epigenetics)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icanccwhite&repo=work-with-slurm)](https://github.com/icanccwhite/work-with-slurm)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icanccwhite&repo=icanccwhite.github.io)](https://github.com/icanccwhite/icanccwhite.github.io)
+
 
 
 
