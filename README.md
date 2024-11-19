@@ -15,10 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icanccwhite&repo=Epigenetics)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=icanccwhite)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icanccwhite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Xiao-Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=icanccwhite&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Xiao-Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=icanccwhite&show_icons=true&rank_icon=github&theme=radical&count_private=true&bg_color=00000000&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=icanccwhite&base=1000&abbreviated=true&label=PROFILE+VIEWS)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icanccwhite&repo=Epigenetics)](https://github.com/anuraghazra/github-readme-stats)
+
+
