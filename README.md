@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icanccwhite&repo=icanccwhite.github.io)](https://github.com/icanccwhite/icanccwhite.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icanccwhite&repo=icanccwhite.github.io)](https://icanccwhite.github.io/)
 
 
 
