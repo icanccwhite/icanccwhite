@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icanccwhite&repo=Epigenetics)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icanccwhite&repo=work-with-slurm)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
