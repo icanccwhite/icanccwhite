@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 [![Xiao-Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=icanccwhite)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=icanccwhite&base=1000&abbreviated=true&label=PROFILE+VIEWS)
