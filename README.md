@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=icanccwhite&base=1000&abbreviated=true&label=PROFILE+VIEWS)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icanccwhite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icanccwhite&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
